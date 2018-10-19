@@ -12,6 +12,8 @@ namespace TestXamarinBitrise
         public MainPage()
         {
             InitializeComponent();
+
+
         }
     }
 
